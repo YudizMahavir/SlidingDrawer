@@ -1,3 +1,4 @@
 # Sliding Drawer Demo
 
-https://i.stack.imgur.com/Yosl3.gif
+Menu Animation:
+![Drawer](https://i.stack.imgur.com/Yosl3.gif "Hamburger to Back arrow")
