@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SlidingDrawer</string>
+
+
+    //Drawer Strings
+    <string name="home">Home</string>
+    <string name="my_submitted_icons">My Submitted Icons</string>
+    <string name="notifications">Notifications</string>
+    <string name="more">More</string>
+    <string name="welcome">Welcome ,</string>
+
+    //Drawer String
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+
+</resources>
